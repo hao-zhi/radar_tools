@@ -1,4 +1,3 @@
-%% 20200603
 function out = NM(func,st)
 st = st(:);
 N = numel(st);
